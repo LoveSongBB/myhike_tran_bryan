@@ -60,7 +60,7 @@ function writeHikes() {
                         details: "Elmo goes here regularly"
                     });
                 }
-writeHikes();
+
 
 function displayCards(collection) {
     let cardTemplate = document.getElementById("hikeCardTemplate");
